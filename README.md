@@ -58,3 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to Kaggle for providing the dataset.
 - Special thanks to the open-source community for Pyomo and the libraries used.
+## Images
+![chosen team](image.png)
+
+![points](gameweek17.jpg)
